@@ -1,2 +1,2 @@
 # leetcode
-A collection of my leetcode practice
+A collection of my solutions to [leetcode practice problems](https://leetcode.com/problemset/all/)
